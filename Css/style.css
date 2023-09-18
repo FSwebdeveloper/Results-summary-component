@@ -33,8 +33,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 320px;
-    height: 380px; 
+    width: 340px;
+    height: 420px; 
     gap: 30px;
     background: linear-gradient(
       180deg,hsl(252, 100%, 67%),
@@ -64,7 +64,7 @@
     color: hsl(241, 100%, 89%);
     font-weight:700;
     font-family: 'Hanken Grotesk', sans-serif;
-    font-size: 18px;
+    font-size: 20px;
   }
 
   .last-title
@@ -128,8 +128,8 @@
 
   .div-two
   {
-    width: 320px;
-    height: 380px;  
+    width: 340px;
+    height: 420px;  
   }
 
   .reaction
@@ -184,7 +184,7 @@
     width: 80%;
     height: 11%;
     margin-left: 25px;
-    margin-top: 25px;
+    margin-top: 40px;
     border-radius: 25px;
     border: transparent;
     font-weight:700;
